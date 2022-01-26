@@ -1,0 +1,11 @@
+_Resharper*
+*.suo
+bin/
+obj/
+*.user
+packages/
+TestResult.xml
+TestResults
+LocalTestConfig.ini
+.vs/
+lib/

@@ -1,0 +1,8 @@
+_Resharper*
+*.suo
+bin/
+obj/
+*.user
+packages/
+.vs/
+lib/
