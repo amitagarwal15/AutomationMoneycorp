@@ -7,8 +7,8 @@ Nunit has been used as testing framework.
 Used Resharper to tun the test within Visual studio.
 
 To execute this test on local machine
-1. Download and install Visual Studio 2019
-2. Clone repository from gitHub using URL :-https://github.com/amitagarwal15/AutomationAssignment.git
+1. Download and install Visual Studio 2019 and GitHub or GitBash.
+2. Clone repository from GitHub using URL https://github.com/amitagarwal15/AutomationMoneycorp.git
 3. Download ChromeDriver required by your OS from https://chromedriver.storage.googleapis.com/index.html?path=98.0.4758.48/
 4. Extract downloaded ChromeDriver zip file and Copy ChromeDriver,exe under D:\\drivers\\ folder as this path is given in App.config to launch the browser while running test.
 5. Go to cloned repository location on locan machine then inside that double click on "AutomationMoneycorp.sln" file to open in Visual Studio
