@@ -27,3 +27,16 @@ To Run the Test:-
 2. Expand TestScripts folder.
 3. Double click on MoneycorpTestFixture.cs
 4. Run VerifyAllLinksInSearchResult test
+
+If we have enough bandwidth available, Following features can be integrated -
+1. Reporting
+2. Logging
+3. Support for multiple browsers (FF, Edge, Safari)
+4. Parallel execution of tests across browsers and machines using Selenium GRID 2
+5. Smtp to email reports
+6. Test data management classes
+7. Concept of Fixtures and Categories to manage regression suite well
+8. Cocept of test run order using Priority keyword
+9. Properties/ini file readers
+10. Parameterization of tests
+11. Extension calsse to handle UI elements well
